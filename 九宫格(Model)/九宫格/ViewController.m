@@ -39,10 +39,12 @@
         NSMutableArray *arrayM = [NSMutableArray array];
         for (NSDictionary *dict in temp) {
 
-            //实例化AppModel
-            AppModel *appModel = [[AppModel alloc]init];
-            appModel.icon = dict[@"icon"];
-            appModel.name = dict[@"name"];
+//            //实例化AppModel
+//            AppModel *appModel = [[AppModel alloc]init];
+//            appModel.icon = dict[@"icon"];
+//            appModel.name = dict[@"name"];
+            //通过对象方法可以省略上文赋值
+            AppModel *appModel = [[AppModel alloc]initWithDict:dict];
             //添加到可变数组
             [arrayM addObject:appModel];
         }

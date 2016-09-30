@@ -14,4 +14,8 @@
 @property(nonatomic,copy) NSString *icon;
 
 
+//对象方法
+-(instancetype)initWithDict:(NSDictionary *)dict;
+//类方法
+-(instancetype)appModelWithDict:(NSDictionary *)dict;
 @end

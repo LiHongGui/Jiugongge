@@ -10,4 +10,19 @@
 
 @implementation AppModel
 
+
+-(instancetype)initWithDict:(NSDictionary *)dict
+{
+    if (self  = [super init]) {
+
+        self.icon = dict[@"icon"];
+        self.name = dict[@"name"];
+    }
+    return self;
+}
+
+-(instancetype)appModelWithDict:(NSDictionary *)dict
+{
+    return [self initWithDict:dict];
+}
 @end
