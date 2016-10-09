@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C4730D35C335009F5BC47489CF74236B414A38F7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C4730D35C335009F5BC47489CF74236B414A38F7" : 0,
+    "A7657AFEE0D022F54F4B35D0F3F25FB0C22E5250" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7FC599D1-32D0-41A5-B96A-93527697D116",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C4730D35C335009F5BC47489CF74236B414A38F7" : "Jiugongge\/",
+    "A7657AFEE0D022F54F4B35D0F3F25FB0C22E5250" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "九宫格",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "九宫格(Model--xib) \/九宫格.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/LiHongGui\/LiHongGui-GitHub.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A7657AFEE0D022F54F4B35D0F3F25FB0C22E5250"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/LiHongGui\/Jiugongge.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C4730D35C335009F5BC47489CF74236B414A38F7"
+    }
+  ]
+}
